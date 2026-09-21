@@ -74,3 +74,27 @@ ChatGPT was used to help me understand the Homework 2 requirements, personalize 
 I kept the personalized ParkPilot feature set, including live parking availability, dynamic pricing, license plate recognition, AI garage recommendations, EV and handicap-accessible parking filters, operator reporting, and payment options.
 
 I also kept the AI-assisted WBS, draft timeline, and Gantt chart as the starting point for Homework 2. I requested revisions to make the WBS match the class example more closely by changing it from a table-style layout to a clean hierarchical numbered list. I reviewed the final document to make sure it only added the Homework 2 requirements to the existing semester project.
+
+
+
+## Homework 3
+
+### Tool Used
+ChatGPT — paid subscription
+
+### What AI Was Used For
+ChatGPT was used to help me understand the Agile, Scrum, and Kanban concepts from Class 4, understand the Homework 3 requirements, set up the ParkPilot project in Jira using the Scrum template, create and organize the required product backlog, plan the Sprint 1 backlog, and update the semester project document with the Homework 3 material and Jira screenshot.
+
+### Prompts Used
+1. "class 4 is here. teach me whats happening and then lets do the homework together. tell me step by step how do it"
+
+2. "do yk how i did it before and do u have the code and everything and ai.md do yk how it is?"
+
+3. "is it okay for the inside scrum sprint 1 to have scrum5,6,7 etc"
+
+4. "is this screenshot good? if it is then ill use it"
+
+### What I Kept vs. What I Changed
+I used the AI assistance to understand how the product backlog and Sprint 1 backlog work in Scrum and as a guide while setting up Jira. I kept the suggested organization of the 45 required backlog items into Login, UI for Operator and User, Backend Processes for Operator and User, and Reporting for Operator and User. I also kept the suggested Sprint 1 items focused on authentication, account processing, and initial operator functionality.
+
+I manually created the ParkPilot Jira project, entered the backlog items into Jira, moved the selected work items into Sprint 1, and reviewed the final Sprint 1 backlog. I also reviewed the updated semester project document and requested formatting changes before using the final version.
