@@ -98,3 +98,37 @@ ChatGPT was used to help me understand the Agile, Scrum, and Kanban concepts fro
 I used the AI assistance to understand how the product backlog and Sprint 1 backlog work in Scrum and as a guide while setting up Jira. I kept the suggested organization of the 45 required backlog items into Login, UI for Operator and User, Backend Processes for Operator and User, and Reporting for Operator and User. I also kept the suggested Sprint 1 items focused on authentication, account processing, and initial operator functionality.
 
 I manually created the ParkPilot Jira project, entered the backlog items into Jira, moved the selected work items into Sprint 1, and reviewed the final Sprint 1 backlog. I also reviewed the updated semester project document and requested formatting changes before using the final version.
+
+
+
+## Homework 4
+
+### Tool Used
+ChatGPT — paid subscription
+
+### What AI Was Used For
+ChatGPT was used to help me understand Class 5 and the topics of risk, quality, and communication management. I also used it to help me complete Homework 4 for ParkPilot by coming up with the risks, making the Risk Register, creating the Communication Plan, and updating my semester project document.
+
+### Prompts Used
+1. "teach me class 5 and explain risk, quality, and communication management to me then lets do homework 4 together step by step"
+
+2. "for parkpilot give me 4 technical risks that actually make sense with the features we already have like live parking, license plate recognition, maps, payments, and everything"
+
+3. "now give me 4 schedule risks for parkpilot like stuff that could delay the project or take longer than we planned"
+
+4. "give me 4 financial risks for parkpilot based on stuff like cloud costs, third party services, hardware, and development costs"
+
+5. "now give me 4 people risks for parkpilot like team members leaving, not knowing certain technology, communication problems, or people having too much work"
+
+6. "use the risks we made and make me a risk register with 10 of the best ones. include the ID, risk description, probability, impact, owner, response strategy, and status or notes"
+
+7. "now make the communication plan for parkpilot. include how often each team meets, what the meeting is for, and how they report their progress"
+
+8. "add everything we just made for homework 4 to the same semester document i have been using. dont change my old homework and keep the same formatting and design"
+
+### What I Kept vs. What I Changed
+I used ChatGPT to help me understand the Class 5 material before starting the homework. I kept the four technical, four schedule, four financial, and four people risks that we came up with for ParkPilot because they matched the features and structure of my project.
+
+I also kept the 10 risks selected for the Risk Register and the probability, impact, owner, response strategy, and status/notes for each one. I kept the Communication Plan with the different teams, meeting schedules, purposes, and reporting methods.
+
+I reviewed each section as we went and approved the risks one category at a time before moving on. I also reviewed the Risk Register and Communication Plan before adding them to my semester project document. ChatGPT was used to add the final approved Homework 4 content to my existing document while keeping my previous homework and formatting.
