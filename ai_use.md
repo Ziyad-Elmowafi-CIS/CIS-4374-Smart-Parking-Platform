@@ -132,3 +132,39 @@ I used ChatGPT to help me understand the Class 5 material before starting the ho
 I also kept the 10 risks selected for the Risk Register and the probability, impact, owner, response strategy, and status/notes for each one. I kept the Communication Plan with the different teams, meeting schedules, purposes, and reporting methods.
 
 I reviewed each section as we went and approved the risks one category at a time before moving on. I also reviewed the Risk Register and Communication Plan before adding them to my semester project document. ChatGPT was used to add the final approved Homework 4 content to my existing document while keeping my previous homework and formatting.
+
+
+
+## Homework 5
+
+### Tool Used
+ChatGPT — paid subscription
+
+### What AI Was Used For
+ChatGPT was used to help me understand Class 6 and the topics of resource and cost management. I also used it to help me complete Homework 5 for ParkPilot by creating the project team and resource plan, making a bottom-up cost estimate, creating a monthly cash flow, building the RACI matrix, and updating my semester project document.
+
+### Prompts Used
+1. "teach me class 6 first so i actually know what everything means then lets build homework 5 together one piece at a time"
+
+2. "for parkpilot help me make a realistic project team with the roles we actually need. give them fictional names, skill levels, percent allocations, and estimated hours based on our 10 week project"
+
+3. "now lets do the bottom up cost plan. give each person a realistic hourly rate and calculate the labor cost based on their hours"
+
+4. "add the other costs parkpilot would have like cloud hosting, database, maps and navigation APIs, payment and license plate recognition services, software tools, parking hardware, and contingency"
+
+5. "use the total parkpilot budget we made and create a monthly budgeted cash flow for the 10 week project and make sure all the monthly totals add back up to the full project budget"
+
+6. "now make the RACI matrix for parkpilot using our project team and the main activities we already have in the project. make sure it shows who is responsible, accountable, consulted, and informed"
+
+7. "check everything we made against the homework 5 requirements and make sure we have the roles and resources, resource and cost plan, monthly cash flow, and RACI matrix"
+
+8. "add all the approved homework 5 work to the same parkpilot semester document. keep everything from the previous homeworks and keep the same formatting and design"
+
+### What I Kept vs. What I Changed
+I used ChatGPT to help me understand the Class 6 material before starting the homework. I kept the seven-person ParkPilot project team with the Project Manager, two Developers, QA Tester, UX Designer, DevOps/Cloud Engineer, and Business Analyst/Product Owner. I also kept the fictional names, skill levels, allocations, and estimated hours that were created for each role.
+
+I kept the bottom-up cost estimate and the hourly rates used to calculate the labor costs. I also kept the estimated costs for cloud hosting and database services, maps and navigation APIs, payment and license plate recognition services, software and development tools, parking sensors and test hardware, and the 10% contingency. This resulted in a total estimated ParkPilot project budget of $90,200.
+
+I also kept the three-month budgeted cash flow and reviewed the totals to make sure they added back up to the $90,200 project budget. For the RACI matrix, I kept the assignments for the seven project roles across the major ParkPilot project activities.
+
+I reviewed and approved each part of the homework as we completed it before moving to the next section. ChatGPT was also used to add the final approved Homework 5 content to my existing semester project document while keeping my previous homework and formatting.
