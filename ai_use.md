@@ -168,3 +168,42 @@ I kept the bottom-up cost estimate and the hourly rates used to calculate the la
 I also kept the three-month budgeted cash flow and reviewed the totals to make sure they added back up to the $90,200 project budget. For the RACI matrix, I kept the assignments for the seven project roles across the major ParkPilot project activities.
 
 I reviewed and approved each part of the homework as we completed it before moving to the next section. ChatGPT was also used to add the final approved Homework 5 content to my existing semester project document while keeping my previous homework and formatting.
+
+
+## Homework 6
+
+### Tool Used
+ChatGPT — paid subscription
+
+### What AI Was Used For
+ChatGPT was used to help me review my entire ParkPilot semester project for Class 7 and make sure all of the previous project work was updated and consistent. I used it to check the SRS, use cases, user stories, WBS, timeline, product backlog, Sprint 1, risks, communication plan, resources, cost plan, and RACI matrix. I also used it to help me update Jira and update the final semester project document.
+
+### Prompts Used
+1. "teach me class 7 first so i know what everything means and then lets do the homework together"
+
+2. "lets start the homework and go through what i actually need to update for parkpilot"
+
+3. "check the whole semester document together and see what actually needs to change for homework 6 instead of redoing stuff thats already good"
+
+4. "update the SRS so it matches all the parkpilot features we added later like exact open spots, EV and handicap filters, dynamic pricing, license plate recognition, AI recommendations, garage management, pricing, and reporting"
+
+5. "update the use cases and user stories so they match the current version of parkpilot and all the features we have now"
+
+6. "check the WBS, timeline, backlog, risks, communication plan, roles, cost plan, and RACI and tell me if anything actually needs to change"
+
+7. "for jira tell me exactly what to do step by step so sprint 1 is updated correctly but dont make it look like we finished work that we didnt actually do"
+
+8. "now finish the whole semester document with everything updated that was needed for homework 6 and use the new jira sprint 1 screenshot"
+
+### What I Kept vs. What I Changed
+I used ChatGPT to review the entire ParkPilot semester project and compare the earlier parts of the project with the features and project plans that were created in later homeworks.
+
+I kept the existing WBS, 10-week timeline, 45-item product backlog, risk management work, Communication Plan, Roles and Resources Plan, Cost Plan, monthly cash flow, and RACI matrix because they were already consistent with the current ParkPilot project.
+
+I updated the SRS because some of the newer ParkPilot features were not included in the original requirements. The SRS was expanded to include features such as exact available parking space counts, EV and handicap-accessible filters, dynamic pricing, favorites and reviews, license plate recognition, AI garage recommendations, operator garage and pricing management, and expanded reporting.
+
+I also updated and refined the use cases and user stories so they better represent the current ParkPilot system.
+
+For Jira, I manually started Sprint 1 and moved the eight selected Sprint 1 work items into the To Do status. I did not mark any items as In Progress or Done because the development work has not actually been completed yet. I then provided the updated Jira board screenshot to ChatGPT to use in the semester project document.
+
+Finally, I reviewed the updated semester document and kept the changes that accurately reflected the current state of ParkPilot.
