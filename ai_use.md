@@ -204,6 +204,35 @@ I updated the SRS because some of the newer ParkPilot features were not included
 
 I also updated and refined the use cases and user stories so they better represent the current ParkPilot system.
 
+
+## Homework 7
+
+### Tool Used
+ChatGPT — paid subscription
+
+### What AI Was Used For
+I used ChatGPT to help me understand the Class 8 material about managing teams and stakeholders before starting the homework. I also used it to help me apply the Power-Interest Grid to ParkPilot, create the Team Charter and Project Charter based on the project information I already had, update my semester project document, and prepare my 1–2 minute update video script.
+
+### Prompts Used
+1. "Teach me the Class 8 material first so I actually understand leadership styles, conflict resolution, team dynamics, the Power-Interest Grid, Team Charters, and Project Charters. Then let's do the homework together."
+
+2. "Using everything we already built for my ParkPilot Smart Parking Platform, create the stakeholder analysis using the Power-Interest Grid. Make sure the stakeholders actually make sense for ParkPilot and put them in the correct Manage Closely, Keep Satisfied, Keep Informed, and Monitor sections."
+
+3. "Create a Team Charter for ParkPilot using the team and project information already in my semester document. Include the team purpose, goals, roles and responsibilities, and operating agreements for how the team communicates, makes decisions, handles conflicts, maintains quality, and stays accountable."
+
+4. "Create a Project Charter for ParkPilot that stays consistent with everything already in my semester project. Include the project purpose, objectives, scope, schedule, budget, success criteria, dependencies, Project Manager authority, and approval."
+
+5. "Add everything required for Homework 7 into the same ParkPilot semester document. Keep all of my previous homework and formatting, and only add what the Homework 7 PowerPoint requires."
+
+6. "Verify the final Homework 7 document against the Class 8 PowerPoint and make sure the Power-Interest Grid, Team Charter, and Project Charter match what the professor asked for and that I am not missing anything."
+
+7. "Give me a 1–2 minute recording script that briefly explains the Power-Interest Grid and then shows my Team Charter and Project Charter."
+
+### What I Kept vs. What I Changed
+I used the AI assistance to understand the Class 8 concepts and as a guide for completing the Homework 7 requirements. I kept the suggested Power-Interest Grid because the stakeholder groups and engagement strategies made sense for ParkPilot. I also kept the Team Charter and Project Charter structure because they matched the definitions and requirements from the lecture.
+
+I reviewed the stakeholder placements and the information used in both charters to make sure they stayed consistent with the ParkPilot project I have been building throughout the semester. I also reviewed the final updated semester document and compared it with the Homework 7 requirements before using it.
+
 For Jira, I manually started Sprint 1 and moved the eight selected Sprint 1 work items into the To Do status. I did not mark any items as In Progress or Done because the development work has not actually been completed yet. I then provided the updated Jira board screenshot to ChatGPT to use in the semester project document.
 
 Finally, I reviewed the updated semester document and kept the changes that accurately reflected the current state of ParkPilot.
