@@ -236,3 +236,34 @@ I reviewed the stakeholder placements and the information used in both charters 
 For Jira, I manually started Sprint 1 and moved the eight selected Sprint 1 work items into the To Do status. I did not mark any items as In Progress or Done because the development work has not actually been completed yet. I then provided the updated Jira board screenshot to ChatGPT to use in the semester project document.
 
 Finally, I reviewed the updated semester document and kept the changes that accurately reflected the current state of ParkPilot.
+
+
+## Homework 8
+
+### Tool Used
+ChatGPT — paid subscription
+
+### What AI Was Used For
+I used ChatGPT to help me understand the Class 9 material about project monitoring, reporting, retrospectives, lessons learned, project closure, and post-mortems. I also used it to help me create the ParkPilot Project Closure Report based on everything I had completed throughout the semester, research and create the separate failed-technology post-mortem, update my semester project document, and prepare my 1–2 minute update video script.
+
+### Prompts Used
+1. "Teach me the Class 9 material first so I actually understand KPIs, burndown charts, velocity, status reporting, retrospectives, lessons learned, project closure, and post-mortems before we start the homework."
+
+2. "Let's build the ParkPilot Closure Report first. Use everything we already made throughout the semester and make sure it follows exactly what the Homework 8 PowerPoint asks for."
+
+3. "For the achievements and shortfalls, make sure you only say things that are actually supported by my ParkPilot semester project. Don't act like we actually deployed the software if we didn't."
+
+4. "Create the executive summary, achievements and shortfalls, lessons learned, and recommendations for future projects for ParkPilot. Keep everything consistent with the requirements, WBS, Jira backlog, risks, budget, stakeholders, and charters we already created."
+
+5. "Add this week's homework to my existing ParkPilot semester document. Keep the same style and formatting from the previous document, make the Closure Report INTERNAL, and don't remove any of my previous homework."
+
+6. "For the separate post-mortem assignment, choose a failed project or technology that was not one of the examples discussed in class. Research what happened, why it failed, the project management lessons, and recommendations."
+
+7. "Make a 1–2 minute script for my Homework 8 update video explaining the ParkPilot Closure Report and what I learned from closing out the project."
+
+### What I Kept vs. What I Changed
+I used the AI assistance to understand the Class 9 concepts and organize the Homework 8 deliverables. I kept the Project Closure Report structure because it followed the four sections required by the assignment: executive summary, achievements and shortfalls, lessons learned, and recommendations for future projects.
+
+I reviewed the closure report against my existing ParkPilot semester document so the achievements, shortfalls, budget, project artifacts, features, and lessons stayed consistent with the work I had already completed. I made sure the report did not claim that ParkPilot had actually been developed or deployed because it was completed as a semester project-management plan.
+
+For the separate post-mortem, I used AI to help research and organize the Google Glass case and reviewed the sources used for the factual information. I also reviewed the final documents and video script before using them.
