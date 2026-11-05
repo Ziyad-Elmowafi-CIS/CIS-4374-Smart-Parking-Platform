@@ -267,3 +267,38 @@ I used the AI assistance to understand the Class 9 concepts and organize the Hom
 I reviewed the closure report against my existing ParkPilot semester document so the achievements, shortfalls, budget, project artifacts, features, and lessons stayed consistent with the work I had already completed. I made sure the report did not claim that ParkPilot had actually been developed or deployed because it was completed as a semester project-management plan.
 
 For the separate post-mortem, I used AI to help research and organize the Google Glass case and reviewed the sources used for the factual information. I also reviewed the final documents and video script before using them.
+
+
+
+## Homework 8 – Part 2: Google Glass Post-Mortem
+
+### Tool Used
+ChatGPT — paid subscription
+
+### What AI Was Used For
+I used ChatGPT to help me research and analyze Google Glass as a failed consumer technology for the second part of Homework 8. I used AI to understand the background of Google Glass, its Explorer Program, why the consumer version struggled, and the major issues involving product-market fit, privacy concerns, technical limitations, high pricing, and stakeholder expectations.
+
+I also used ChatGPT to organize the research into a separate post-mortem document that explains what happened, the major causes of failure, project management lessons learned, recommendations, and a conclusion. AI also helped me identify and organize references supporting the analysis.
+
+### Prompts Used
+
+1. "For part 2 of Homework 8, I need to research a failed project or technology that wasn't discussed in class. Help me choose one that has enough information to make a good post mortem."
+
+2. "Let's do Google Glass. Research the background of the project, when it was introduced, what the Explorer Program was, and what happened to the consumer version."
+
+3. "Explain why Google Glass failed as a mainstream consumer product. Go into the privacy concerns, expensive pricing, battery life, technical limitations, public perception, and whether people actually needed the product."
+
+4. "Connect the Google Glass failure to the project management concepts we learned in Class 9. Explain the problems with stakeholder expectations, communication, risk management, testing, and product-market fit."
+
+5. "Create a separate Google Glass post mortem document that includes an executive summary, what happened, major causes of failure, project management lessons learned, recommendations, conclusion, and references."
+
+6. "Make sure the Google Glass post mortem is completely separate from my ParkPilot semester document because the professor specifically said not to include it in the project document."
+
+7. "Review the final Google Glass post mortem and make sure the analysis is clear, the information is supported by sources, and the lessons learned connect back to project management."
+
+### What I Kept vs. What I Changed
+I kept Google Glass as the subject because it was not one of the failed technologies discussed in Class 9 and provided several useful project management lessons.
+
+I used the AI-generated research and analysis to organize the post-mortem around the major reasons the consumer version struggled, including privacy concerns, high pricing, technical limitations, unclear consumer value, and unrealistic expectations.
+
+I reviewed the report's structure and references and kept the sections focused on explaining the failure and identifying lessons that could be applied to future technology projects. I also kept the post-mortem as a separate document from ParkPilot to follow the professor's submission requirements.
